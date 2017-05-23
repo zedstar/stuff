@@ -1,16 +1,16 @@
-##OS Query tool that captures a lot obout your system state
+## OS Query tool that captures a lot obout your system state
 
 https://osquery.io
 
-##Some unix love with updated tools as part of various distro's
+## Some unix love with updated tools as part of various distro's
 
 http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
 
-##Great Sysadmin page.
+## Great Sysadmin page.
 
 https://github.com/kahun/awesome-sysadmin
 
-##CMDB to explore some time
+## CMDB to explore some time
 
 http://tumblr.github.io/collins/index.html
 
