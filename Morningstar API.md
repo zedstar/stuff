@@ -1,6 +1,5 @@
 ## Credit to hahnicity
 
-
 # Morningstar API
 
 If you're interested in grabbing Morningstar data but cash strapped there are ways to do it without actually paying for it. 
