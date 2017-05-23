@@ -10,6 +10,16 @@ http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr
 
 https://github.com/kahun/awesome-sysadmin
 
+OS Detection with ping
+
+And a good trick to know: a simple ping command can often help determine a target OS. Though if a firewall is responding on behalf of the host, results may vary and be skewed.
+
+The TTL for Linux is typically 64 or 255.
+
+The TTL for Windows is 128.
+
+
+
 ## CMDB to explore some time
 
 http://tumblr.github.io/collins/index.html
