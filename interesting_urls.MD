@@ -46,3 +46,12 @@ http://research.protocollabs.com/captcp/index.html
 ## Readline wrapper
 
 https://github.com/hanslub42/rlwrap
+
+
+## The vendor map
+
+https://www.thevendormap.com/
+
+## The CNCF landscape
+
+https://github.com/cncf/landscape
