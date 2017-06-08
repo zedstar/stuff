@@ -66,5 +66,7 @@ https://www.thevendormap.com/
 
 https://github.com/cncf/landscape
 
+## Sed quick 1 liners - from HN
 
+http://www.pement.org/sed/sed1line.txt
 
