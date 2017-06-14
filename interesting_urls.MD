@@ -70,5 +70,9 @@ https://github.com/cncf/landscape
 
 http://www.pement.org/sed/sed1line.txt
 
+## OSX handy stuff
+
+https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities
+https://www.slant.co/topics/522/~best-developer-tools-for-mac-osx
 
 
